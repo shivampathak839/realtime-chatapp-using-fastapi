@@ -41,6 +41,3 @@ README.md
 - Use the token for `/send` and `/messages` endpoints.
 - Connect to `/ws/chat` for real-time chat.
 
-## Customization
-- Change `SECRET_KEY` in `auth.py` before production!
-- Add more features (rooms, emojis, etc.) as needed.
