@@ -16,7 +16,7 @@
    ```
 3. **API available at** `http://localhost:8000`
 4. **Swagger docs at** `http://localhost:8000/docs`
-5. **WebSocket endpoint at** `ws://localhost:8000/ws/chat`
+<!-- 5. **WebSocket endpoint at** `ws://localhost:8000/ws/chat` -->
 
 ## Folder Structure
 ```
@@ -41,6 +41,3 @@ README.md
 - Use the token for `/send` and `/messages` endpoints.
 - Connect to `/ws/chat` for real-time chat.
 
-## Customization
-- Change `SECRET_KEY` in `auth.py` before production!
-- Add more features (rooms, emojis, etc.) as needed.
